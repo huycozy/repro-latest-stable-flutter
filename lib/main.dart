@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
           child: Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Icon(Icons.ac_unit),
+              Icon(Icons.accessibility),
             ],
           ),
         ),
